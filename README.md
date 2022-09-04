@@ -16,10 +16,11 @@
 
 <h3 align="left">These are my favourite projects</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alisa-Mikulina&repo=programming-labs)](https://github.com/Alisa-Mikulina/programming-labs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alisa-Mikulina&repo=project-finder)](https://github.com/Alisa-Mikulina/project-finder)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alisa-Mikulina&repo=messenger)](https://github.com/Alisa-Mikulina/messenger)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alisa-Mikulina&repo=programming-labs)](https://github.com/Alisa-Mikulina/programming-labs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alisa-Mikulina&repo=algorithms-and-data-structures)](https://github.com/Alisa-Mikulina/algorithms-and-data-structures)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alisa-Mikulina&repo=to_do_list)](https://github.com/Alisa-Mikulina/to_do_list)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alisa-Mikulina&repo=messenger)](https://github.com/Alisa-Mikulina/messenger)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alisa-Mikulina&repo=cs102B)](https://github.com/Alisa-Mikulina/cs102B)
 <h3 align="left">Some GitHub activity information</h3>
 
