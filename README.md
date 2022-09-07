@@ -27,6 +27,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alisa-Mikulina)](https://github.com/Alisa-Mikulina/github-readme-stats)
 
 [![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisa-Mikulina)](https://github.com/Alisa-Mikulina/github-readme-stats)
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Alisa-Mikulina&theme=dark)](https://github.com/Alisa-Mikulina/leetcode-stats)
 
 <!--<h3 align="left">Languages and Tools:</h3>
